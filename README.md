@@ -1,26 +1,47 @@
-<!-- Приветствие и краткая информация -->
-<h1 align="center">Привет, я Server Asanov 👋</h1>
+<!-- Приветствие с анимацией -->
+<h1 align="center">
+  Привет, я Server Asanov! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+</h1>
+
 <p align="center">
   <b>Фронтенд-разработчик</b> <br/>
-  React | Next.js | TypeScript<br/>
-  Немного backend<br/>
+  React | Next.js | TypeScript | Бэкенд (немного)
 </p>
 
 ---
 
-### 🧑‍💻 Немного обо мне
+<!-- Гитхаб трофеи -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Server-1205&theme=radical&margin-w=10&margin-h=10" alt="github trophies"/>
+</p>
 
-- 🔭 Сейчас работаю над интересными pet-проектами и совершенствую свои навыки.
-- 🌱 Изучаю новые технологии фронтенда и backend.
-- 💡 Люблю создавать быстрые, современные и удобные интерфейсы.
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Server-1205&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Server-1205&layout=compact&theme=radical" height="170"/>
+</p>
+
+---
+
+<!-- GitHub Snake Animation -->
+<p align="center">
+  <img src="https://github.com/Server-1205/Server-1205/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+<!-- Мотивационная цитата -->
+<p align="center">
+  <img src="https://readme-quote.vercel.app/api?theme=radical&quote=Создавай, а не жди идеального момента!" alt="quote"/>
+</p>
+
+---
 
 ### 🛠 Мой стек
 
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,html,css,figma,git" />
+</p>
 
 ---
 
@@ -35,14 +56,14 @@
 
 ---
 
-### 📊 GitHub статистика
+### 📫 Контакты
 
-![Server-1205's GitHub stats](https://github-readme-stats.vercel.app/api?username=Server-1205&show_icons=true&theme=radical)
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <!-- Добавьте ссылки на Telegram, LinkedIn, сайт -->
+</p>
 
 ---
-
-<!-- Здесь можно добавить ссылки на соцсети/портфолио -->
-<!-- [Telegram](#) | [LinkedIn](#) | [Портфолио](#) -->
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Server-1205&style=flat-square&color=blue" alt=""/>
