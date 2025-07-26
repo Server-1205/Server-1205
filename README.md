@@ -23,13 +23,6 @@
 
 ---
 
-<!-- GitHub Snake Animation -->
-<p align="center">
-  <img src="https://github.com/Server-1205/Server-1205/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
-
 <!-- Мотивационная цитата -->
 <p align="center">
   <img src="https://readme-quote.vercel.app/api?theme=radical&quote=Создавай, а не жди идеального момента!" alt="quote"/>
