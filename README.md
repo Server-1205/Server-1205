@@ -23,13 +23,6 @@
 
 ---
 
-<!-- Мотивационная цитата -->
-<p align="center">
-  <img src="https://readme-quote.vercel.app/api?theme=radical&quote=Создавай, а не жди идеального момента!" alt="quote"/>
-</p>
-
----
-
 ### 🛠 Мой стек
 
 <p align="center">
@@ -52,7 +45,7 @@
 ### 📫 Контакты
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:server1205@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <!-- Добавьте ссылки на Telegram, LinkedIn, сайт -->
 </p>
 
