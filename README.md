@@ -1,11 +1,11 @@
 <!-- Приветствие с анимацией -->
 <h1 align="center">
-  Привет, я Server Asanov! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+  Привет, я Server! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 </h1>
 
 <p align="center">
   <b>Фронтенд-разработчик</b> <br/>
-  React | Next.js | TypeScript | Бэкенд (немного)
+  React | Next.js | TypeScript
 </p>
 
 ---
